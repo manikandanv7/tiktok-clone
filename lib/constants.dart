@@ -24,6 +24,7 @@ const borderColor = Colors.grey;
 var firebaseauth = FirebaseAuth.instance;
 var firestorage = FirebaseStorage.instance;
 var firestore = FirebaseFirestore.instance;
+const x = 0;
 
 //CONTROLLERS
 var authcontroller = Authcontroller.instance;
